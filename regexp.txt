@@ -1,0 +1,8 @@
+-\n\n.+\n 					- (151) jnjel
+\n\n.+ 						- (785) jnjel
+
+-\n\n\d+\n\n.+\n 	- (148) jnjel
+\n\n\d+\n\n.+			- (725) jnjel
+
+£ poxel :
+(?<=\[[^\[]+)Ջ(?=[^\]]+\]) poxel æ
