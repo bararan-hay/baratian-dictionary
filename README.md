@@ -9,4 +9,5 @@
 
 
 ## Ինչպես օգտագործել
-macOS-ի Dictionary-ի ծրագրում աւելացնելու համար [կարդացէք](https://github.com/tigransimonyan/macos-english-armenian-dictionary)։
+Առցանց տարբերակով հասանելի է [այստեղ](https://tigransimonyan.github.io/baratian-dictionary-assets/)։  
+macOS-ի Dictionary-ի ծրագրում աւելացնելու համար [կարդացէք](https://github.com/tigransimonyan/macos-english-armenian-dictionary)։  
