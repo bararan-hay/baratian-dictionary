@@ -9,5 +9,5 @@
 
 
 ## Ինչպես օգտագործել
-Առցանց տարբերակով հասանելի է [այստեղ](https://tigransimonyan.github.io/bararan-hay/)։  
+Առցանց տարբերակով հասանելի է [այստեղ](https://բառարան.հայ)։  
 macOS-ի Dictionary-ի ծրագրում աւելացնելու համար [կարդացէք](https://github.com/tigransimonyan/macos-english-armenian-dictionary)։
